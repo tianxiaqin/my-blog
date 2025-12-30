@@ -30,6 +30,10 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "d2df76e5249aa052",
+			"url": "/images/art/d2df76e5249aa052.jpg"
 		}
 	],
 	"currentArtImageId": "a46372ff45bc5524",
@@ -63,7 +67,7 @@
 	"enableCategories": true,
 	"currentHatIndex": 3,
 	"hatFlipped": false,
-	"enableChristmas": false,
+	"enableChristmas": true,
 	"beian": {
 		"text": "",
 		"link": ""
